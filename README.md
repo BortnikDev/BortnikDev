@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-![Samuel Bortnik GitHub stats](https://github.com/BortnikDev/BortnikDev/edit/main/README.md)
+![Samuel Bortnik GitHub stats](https://github-readme-stats.vercel.app/api?username=bortnik.dev)
 
 ## my technologies used:
 
