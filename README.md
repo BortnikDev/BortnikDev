@@ -1,4 +1,4 @@
-### Hello, I'm Samuel Bortnik, a fullstack web developer student, here I bring a little of my studies and projects, welcome!
+### Hello, I'm Samuel Bortnik, graduated in biology, and I'm currently fulfilling a dream that is to migrate to the technology area. studying fullstack web developer, here I bring some of my projects, welcome!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelbortnik/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bortnikdev)
