@@ -60,16 +60,7 @@
 
 ---
 
-## 📅 Learning Journey
-
-- ✅ **Swift Basics**
-- ✅ **SwiftUI Fundamentals**
-- 🚧 **Combine Framework**
-- 🚀 **Core Data** (in progress)
-
----
-
-## 🎥 Latest on YouTube
+<!--## 🎥 Latest on YouTube
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
@@ -84,7 +75,7 @@
 
 ---
 
-## 🐍 Watch my commits come to life
+<!--## 🐍 Watch my commits come to life
 ![Snake animation](https://github.com/bortnikdev/bortnikdev/blob/output/github-contribution-grid-snake.svg)
 
 ---
