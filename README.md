@@ -1,6 +1,6 @@
 <!-- Banner ou GIF opcional -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seuusuario/seurepo/main/path/para/gif.gif width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YxYTltbG40cDZtbGE1eTdpYmJpazAyd3NxeG00MHM1Ymg0ZnQ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif width="400"/>
 </p>
 
 <h1 align="center">👋 Hi there, I'm Samuel Bortnik</h1>
