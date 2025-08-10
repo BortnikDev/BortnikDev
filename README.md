@@ -1,15 +1,24 @@
-<!-- Banner ou GIF opcional -->
+<!-- Banner personalizado -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YxYTltbG40cDZtbGE1eTdpYmJpazAyd3NxeG00MHM1Ymg0ZnQ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="250"/>
 </p>
 
-<h1 align="center">👋 Hi there, I'm Samuel Bortnik</h1>
+<h1 align="center">👋 Hi, I'm Samuel Bortnik</h1>
+<h3 align="center">iOS Mobile Developer in the making 🚀 | Swift & SwiftUI enthusiast 🍏</h3>
 
 <p align="center">
-🎓 Graduated in <b>Biology</b>, now pursuing my dream career in <b>Technology</b>.<br/>
-📱 Focused on <b>iOS Mobile Development</b> using <b>Swift</b> and <b>SwiftUI</b>.<br/>
-🚀 Here you'll find my learning journey and projects. Welcome!
+  <img src="https://komarev.com/ghpvc/?username=bortnikdev&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/bortnikdev?label=Followers&style=flat&color=success" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/bortnikdev?label=Stars&style=flat&color=yellow" alt="Stars" />
 </p>
+
+---
+
+## 📖 About Me
+
+🎓 Graduated in **Biology**, now pursuing my dream in **Technology**.  
+📱 Focused on **iOS Mobile Development** using **Swift** and **SwiftUI**.  
+🚀 Sharing my learning journey through code and content creation.  
 
 ---
 
@@ -31,23 +40,38 @@
 
 ## 🛠 Tech Stack
 
-**Mobile Development**
+**📱 Mobile Development**
 <br/>
-<img align="center" alt="Swift" src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-<img align="center" alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
-<img align="center" alt="UIKit" src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
-<img align="center" alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-<img align="center" alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
+<img alt="Swift" src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+<img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
+<img alt="UIKit" src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
+<img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+<img alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
 
-**Tools & Design**
+**🛠 Tools & Design**
 <br/>
-<img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
-**Other Languages**
+**🌐 Other Languages**
 <br/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+---
+
+## 📅 Learning Journey
+
+- ✅ **Swift Basics**
+- ✅ **SwiftUI Fundamentals**
+- 🚧 **Combine Framework**
+- 🚀 **Core Data** (in progress)
+
+---
+
+## 🎥 Latest on YouTube
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ---
 
@@ -57,6 +81,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bortnikdev&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bortnikdev&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🐍 Watch my commits come to life
+![Snake animation](https://github.com/bortnikdev/bortnikdev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
