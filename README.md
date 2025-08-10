@@ -1,4 +1,4 @@
-### Hello, I'm Samuel Bortnik, graduated in biology, and I'm currently fulfilling a dream that is to migrate to the technology area. studying fullstack web developer, here I bring some of my projects, welcome!
+### Hi, I'm Samuel Bortnik, a biology graduate, and I'm currently fulfilling my dream of moving into technology. I'm studying mobile development with a focus on iOS. Here are some of my projects. Welcome to my repository!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelbortnik/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@bortnikdev)
