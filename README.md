@@ -1,10 +1,10 @@
 <!-- Banner personalizado -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Samuel Bortnik</h1>
-<h3 align="center">Cloud & DevOps Engineer ☁️ | AWS | Red Hat | Automation | Infrastructure as Code 🚀</h3>
+<h3 align="center">Cloud & DevOps Engineer ☁️ | AWS | Red Hat | Automation | IaC 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bortnikdev&color=blue&style=flat-square" alt="Profile views" />
@@ -18,8 +18,8 @@
 
 💻 Passionate about **Cloud Architecture**, **Automation**, and **Scalable Infrastructure**.  
 ☁️ Focused on **AWS**, **CI/CD pipelines**, and **Infrastructure as Code (IaC)**.  
-🐧 Specialized in **Red Hat Enterprise Linux (RHEL)** and **containerized environments**.  
-🚀 Building resilient systems through **DevOps culture** and **cloud-native solutions**.  
+🐧 Specialized in **Red Hat Enterprise Linux (RHEL)** and containerized environments.  
+🚀 Building resilient systems through **DevOps culture** and **cloud‑native solutions**.  
 
 ---
 
@@ -56,6 +56,10 @@
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+**🐍 Programming**
+<br/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 **🧠 Monitoring & Observability**
 <br/>
