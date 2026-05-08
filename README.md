@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Samuel Bortnik</h1>
-<h3 align="center">iOS Mobile Developer in the making 🚀 | Swift & SwiftUI enthusiast 🍏</h3>
+<h3 align="center">Cloud & DevOps Engineer ☁️ | AWS | Automation | Infrastructure as Code 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bortnikdev&color=blue&style=flat-square" alt="Profile views" />
@@ -16,13 +16,14 @@
 
 ## 📖 About Me
 
-🎓 Graduated in **Biology**, now pursuing my dream in **Technology**.  
-📱 Focused on **iOS Mobile Development** using **Swift** and **SwiftUI**.  
-🚀 Sharing my learning journey through code and content creation.  
+💻 Passionate about **Cloud Architecture**, **Automation**, and **Scalable Infrastructure**.  
+☁️ Focused on **AWS**, **CI/CD pipelines**, and **Infrastructure as Code (IaC)**.  
+⚙️ Experienced with **Docker**, **Kubernetes**, and **Terraform** for modern deployments.  
+🚀 Always learning and sharing insights about **DevOps culture** and **cloud-native solutions**.  
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuelbortnik/">
@@ -38,31 +39,28 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
-**📱 Mobile Development**
+**☁️ Cloud & Infrastructure**
 <br/>
-<img alt="Swift" src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-<img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
-<img alt="UIKit" src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
-<img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-<img alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-**🛠 Tools & Design**
+**🔧 DevOps & Automation**
 <br/>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-**🌐 Other Languages**
+**🧠 Monitoring & Observability**
 <br/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-
----
-
-<!--## 🎥 Latest on YouTube
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img alt="CloudWatch" src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 ---
 
@@ -75,11 +73,6 @@
 
 ---
 
-<!--## 🐍 Watch my commits come to life
-![Snake animation](https://github.com/bortnikdev/bortnikdev/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <p align="center">
-  💡 "The best way to predict the future is to create it."
+  💡 "Automate everything. Scale infinitely. Deliver continuously."
 </p>
