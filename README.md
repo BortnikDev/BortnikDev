@@ -1,6 +1,6 @@
 <!-- Banner personalizado -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/24390689/file/original-3f13cebc70b575018ccbb750588394bc.gif"/>
+  <img src="https://miro.medium.com/1*fb5qImPRFI0Fg-fQ5aw-Mg.gif"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Samuel Bortnik</h1>
