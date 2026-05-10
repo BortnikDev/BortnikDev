@@ -1,6 +1,6 @@
 <!-- Banner personalizado -->
 <p align="center">
-  <img src="https://miro.medium.com/1*fb5qImPRFI0Fg-fQ5aw-Mg.gif"/>
+  <img src="https://telnetsolutions.co.in/wp-content/uploads/2024/05/scalable-secure-reliable-public-cloud.gif"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Samuel Bortnik</h1>
