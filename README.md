@@ -1,6 +1,6 @@
 <!-- Banner personalizado -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif](https://static.vecteezy.com/system/resources/thumbnails/036/103/437/original/cloud-technology-computing-animation-modern-cloud-technology-data-center-isometric-concept-web-hosting-concept-video.jpg)" width="350"/>
+  <img src="https://www.cyanous.com/cloud-computing"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Samuel Bortnik</h1>
