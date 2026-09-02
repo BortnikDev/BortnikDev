@@ -74,15 +74,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bortnikdev&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bortnikdev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
   💡 "Automate everything. Scale infinitely. Deliver continuously."
 </p>
